@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(255, 17, 0);
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
+.perkenalan{
+    font-family: 'Lato'sans-serif;
+}
+
+.circel{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 10px;
+    line-height: 50px;
+    margin:auto;
+}
+.gambar-saya {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    line-height:50px ;
+}
+.perkenalan{
+    color:white;
+    text-align: center;
+    font-size: 35px;
+    background-color: black;
+}
+.nama{
+    color:white;
+    font-size: 25px;
+    background-color: black;
+    border: 10px solid white;}
+
+.table{
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    border: 10px solid white;
+}
+
+.pendidikan{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    background-color: black;
+}
+
+.pengalaman{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    background-color: black;
+}
+
+.prestasi{
+    color:white;
+    font-size: 30px;
+}
+
+.inspirasi{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    background-color: black
+}
+
+.website{
+    color:white;
+    font-size: 30px;
+}
+
+
+   
